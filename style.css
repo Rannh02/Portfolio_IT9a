@@ -37,27 +37,9 @@ body{
     bottom: 0;
     z-index: 99;
 }
-.footer .logo {
-    font-size: 2.2rem;
-    margin-bottom: 0.5rem;
-}
-.footer-navbar {
-    display: flex;
-    gap: 2rem;
-    margin-bottom: 0.5rem;
-}
-.footer-navbar a {
-    font-size: 1.4rem;
-    color: white;
-    transition: 0.3s;
-    border-bottom: 2px solid transparent;
-}
-.footer-navbar a:hover {
-    color: var(--main-color);
-    border-bottom: 2px solid var(--main-color);
-}
+
 .footer-text {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #fff;
     opacity: 0.7;
 }
@@ -272,12 +254,14 @@ span{
     font-size: 100px;
     margin-bottom: 2rem;
     font-family: 'Courier New', Courier, Consolas, monospace;
+    color: rgb(253, 246, 171);
 }
 
 .about-me p {
     font-size: 2rem;
     max-width: 95%;
     font-family: 'Courier New', Courier, Consolas, monospace;
+    color: rgb(253, 246, 171);
 }
 
 
