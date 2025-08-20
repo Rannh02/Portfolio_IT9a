@@ -279,7 +279,7 @@ span{
 
 /*Contact Form!*/
 #emailLabel{
-    font-size: 25px;
+    font-size: 20px;
 }
 #email{
     font-size: 25px;
@@ -287,7 +287,7 @@ span{
     border-radius: 20px;
 }
 #fnamelabel{
-    font-size:25px;
+    font-size:20px;
 }
 #fname{
     font-size: 25px;
@@ -295,7 +295,7 @@ span{
     border-radius: 20px;
 }
 #lnamelabel{
-    font-size:25px;
+    font-size:20px;
 }
 #lname{
     font-size:25px;
@@ -303,7 +303,7 @@ span{
     border-radius: 20px;
 }
 #snamelabel{
-    font-size:25px;
+    font-size:20px;
 }
 #sname{
     font-size:25px;
@@ -311,7 +311,7 @@ span{
     border-radius: 20px;
 }
 #ViewerComments{
-    font-size:25px;
+    font-size:20px;
 }
 #CommentLabel{
     height: 20%;
@@ -325,7 +325,7 @@ span{
     align-items: center;
     max-width: 700px;
     height:70%;
-    background: rgba(94, 57, 36, 0.8);
+    background: rgba(67, 46, 34, 0.8);
     padding: 24px;
     border-radius: 20px;
 
