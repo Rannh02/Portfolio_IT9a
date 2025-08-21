@@ -246,7 +246,7 @@ span{
     flex-direction: column;
     justify-content: center; 
     align-items: flex-start;   
-    height: 80vh;            
+    height: 105vh;            
     padding-left: 5vw;
     margin-top:0%;      
     background: var(--bg-color);
