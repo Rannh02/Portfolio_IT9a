@@ -102,6 +102,8 @@ body{
     margin-top: 1rem;
     margin-bottom: 7rem; 
 }
+
+
 span{
     color: var(--main-color);
 }
@@ -407,3 +409,4 @@ span{
 .item span {
     color: #fff;
 }
+
