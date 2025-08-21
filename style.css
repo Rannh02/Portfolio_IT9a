@@ -311,11 +311,12 @@ span{
     border-radius: 20px;
 }
 #ViewerComments{
-    font-size:20px;
+    font-size:25px;
 }
 #CommentLabel{
     height: 20%;
     width: 99%;
+    font-size: 20px;
     border-radius: 20px;
 }
 
